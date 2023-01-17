@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T05:52:35.794Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="xXoAgdGcwhaTVg4Uj7EJ" type="github"><diagram id="tQNQATFfD5Tzfi5-4_7g">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-17T05:57:14.043Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="29i09FwIkNV9MLV9wPOU" type="github">
+  <diagram id="MI6bqcpLEckHFbYw3EjF" name="第 1 页">
+    <mxGraphModel dx="2261" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cIE7NBR_apyobhA-ieGi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cIE7NBR_apyobhA-ieGi-1" target="cIE7NBR_apyobhA-ieGi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cIE7NBR_apyobhA-ieGi-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=29;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="452.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="cIE7NBR_apyobhA-ieGi-3" value="新的博客实现流程图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="172.5" y="190" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cIE7NBR_apyobhA-ieGi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cIE7NBR_apyobhA-ieGi-4" target="cIE7NBR_apyobhA-ieGi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cIE7NBR_apyobhA-ieGi-4" value="markdown原稿" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="450" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cIE7NBR_apyobhA-ieGi-5" value="本地" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cIE7NBR_apyobhA-ieGi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cIE7NBR_apyobhA-ieGi-6" target="cIE7NBR_apyobhA-ieGi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cIE7NBR_apyobhA-ieGi-6" value="文章托管" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cIE7NBR_apyobhA-ieGi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cIE7NBR_apyobhA-ieGi-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cIE7NBR_apyobhA-ieGi-7" value="静态页面更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="447.5" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cIE7NBR_apyobhA-ieGi-9" value="github" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cIE7NBR_apyobhA-ieGi-10" value="服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="447.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cIE7NBR_apyobhA-ieGi-13" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=29;" vertex="1" parent="1">
+          <mxGeometry x="310" y="520" width="80" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
